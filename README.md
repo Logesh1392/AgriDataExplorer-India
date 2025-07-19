@@ -22,20 +22,20 @@ This project presents an **Exploratory Data Analysis (EDA)** and interactive **P
 ### 📊 Bar / Line / Pie Visualizations
 
 - Top 7 **Rice Producing States** – Bar Plot  
-- Top 5 **Wheat Producing States** – Bar + Pie Chart (with %)
-- Top 5 **Oilseed Producing States** – Bar Plot
-- Top 7 **Sunflower Producing States**
+- Top 5 **Wheat Producing States** – Donut Chart + Pie Chart (with %)
+- Top 5 **Oilseed Producing States** – LollyPop Plot
+- Top 7 **Sunflower Producing States** - Bar Plot
 - India's **Sugarcane Production** – Last 50 Years (Line Plot)
 - **Rice vs Wheat Production** – Last 50 Years (Line Plot)
-- **Rice Production by West Bengal Districts** – Regional Bar Chart
-- **Top 10 Wheat Production Years** from Uttar Pradesh
-- **Millet Production Trends** – Last 50 Years
-- **Sorghum Production** (Kharif & Rabi) – By Region
-- Top 7 States – **Groundnut Production**
+- **Rice Production by West Bengal Districts** – Tree Map
+- **Top 10 Wheat Production Years** from Uttar Pradesh - Funnel Chart
+- **Millet Production Trends** – Last 50 Years - Line Plot
+- **Sorghum Production** (Kharif & Rabi) – By Region - Vertical Bar Chart
+- Top 7 States – **Groundnut Production** - Sunburst Plot
 - **Soybean Production & Yield Efficiency** – Top 5 States
-- Oilseed Production by State
-- **Impact of Cultivated Area** on Production (Rice, Wheat, Maize)
-- **Rice vs Wheat Yield** – Statewise Comparison
+- Oilseed Production by State - Polar Area Chart
+- **Impact of Cultivated Area** on Production (Rice, Wheat, Maize) -Scatter Plot
+- **Rice vs Wheat Yield** – Statewise Comparison - Horizontal Bar Chart
 
 ---
 
